@@ -1,0 +1,12 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./source/install.php
+./source/js/event-loader.js
+./source/example/qvisualevent.tpl.php
+./source/example/qvisualevent.php
+./source/includes/QVisualEvent.class.php
+./valid_targets.txt
