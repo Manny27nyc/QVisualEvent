@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Copyright 2007-2008 Allan Jardine. All rights reserved
  * Contact: allan.jardine /AT\ sprymedia.co.uk
